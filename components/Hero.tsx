@@ -11,7 +11,7 @@ export default function Hero() {
         {/* Left Side */}
         <div>
           <h2 className="text-2xl text-cyan-400 mb-2">
-            Hello, I'm
+           I&apos;m Apeksha Thorvat
           </h2>
 
           <h1 className="text-6xl font-bold mb-4">

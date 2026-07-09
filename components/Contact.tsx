@@ -11,9 +11,9 @@ export default function Contact() {
         </h2>
 
         <p className="text-gray-400 mt-6 text-lg">
-          I'm always excited to connect for internships,
-          collaborations, hackathons, and innovative projects.
-        </p>
+  I&apos;m always excited to connect for internships,
+  collaborations, hackathons, and innovative projects.
+</p>
 
         <div className="mt-12 space-y-6 text-xl">
 
