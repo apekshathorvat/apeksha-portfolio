@@ -36,8 +36,9 @@ export default function Hero() {
             >
               Women Safety App
             </a>
-            <a
-  href="/resume.pdf"
+           <a
+  href="/resume.docx"
+  download
   className="border-2 border-cyan-500 px-6 py-3 rounded-xl hover:bg-cyan-500 transition"
 >
   📄 Download Resume
